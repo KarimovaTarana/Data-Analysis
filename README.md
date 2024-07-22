@@ -15,7 +15,7 @@ Welcome to my Data Analysis repository! This repository contains two projects th
   - `10_best_selling_video_games.ipynb`: Jupyter Notebook containing the analysis
   - `queries.sql`: SQL queries used for data extraction and transformation
 
-### 2. Basic Data Analysis Using Python
+### 2. Basic Data Analysis and Visualizations Using Python
 - **Folder**: `Python_projects`
 - **Description**: This project performs basic data analysis using Python, utilizing libraries such as pandas, numpy, and matplotlib. It serves as an introduction to data manipulation, analysis, and visualization.
 - **Tools Used**:
